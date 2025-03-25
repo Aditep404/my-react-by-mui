@@ -55,7 +55,7 @@ return (
                     <FormControlLabel value="LGBTQ+" control={<Radio />} label="LGBTQ+" />
                 </RadioGroup>
             </FormControl>
-            <Button variant="contained" size='Large' sx={{mt:2,backgroundColor:'#ff0000'}}>HELLO</Button>
+            <Button variant="contained" size='Large' sx={{mt:2,backgroundColor:'#ff0000'}}>บันทึก</Button>
             <Button variant="outlined" size='Large' sx={{mt:2, borderColor:'#ff0000',color:'#ff0000'}}>ตกลง</Button>
         </Box>
 
